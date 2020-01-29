@@ -10,3 +10,4 @@
 ## to move this commit to other branch, because commit to the wrong
 ## branch)>git reflog> git checkout + lognumber > git log (on detached head
 ## stage)
+## 5. 最后一个undo mistake
